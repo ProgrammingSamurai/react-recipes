@@ -188,3 +188,7 @@ export const CounterContext = createContext({
 ```bash
 $ git clone git@github.com:ProgrammingSamurai/react-recipes.git
 ```
+
+## 告知
+
+先日、Udemy講師デビューを果たしました。「[フロントエンドエンジニアのためのReact・Reduxアプリケーション開発入門](https://goo.gl/M1V3sD)」というコースを公開中です。これからReactをやってみようとお考えの方は是非始めてみてください！こちらの[リンク](https://goo.gl/M1V3sD)から95%オフで購入できます。ご質問も大歓迎です！ :)
